@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @umurpolat0
-- 👀 I’m interested in HTML, CSS,JavaScript,ReactNative
-- 🌱 I’m currently learning JavaScript, ReactNative
-- 📫 To reach me through Instagram ig:umurpolat_
+- 👀 I’m interested in HTML, CSS, JavaScript, React.
+- 📫 To reach me through Instagram: umurpolat_
